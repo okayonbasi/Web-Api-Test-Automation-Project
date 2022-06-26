@@ -1,0 +1,7 @@
+com\trendyol\objectrepo\LoginPageObjectRepo.class
+com\trendyol\objectrepo\MenuPageObjectRepo.class
+com\trendyol\action\MenuPageActions.class
+com\trendyol\test\TrendyolAutomationTest.class
+com\trendyol\api\action\APIBookAction.class
+com\trendyol\action\LoginPageActions.class
+com\trendyol\test\TrendyolApiTest.class

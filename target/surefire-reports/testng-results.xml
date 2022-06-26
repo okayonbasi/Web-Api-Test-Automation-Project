@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TrendyolTest Suite" duration-ms="49275" started-at="2022-01-12T13:03:45Z" finished-at="2022-01-12T13:04:34Z">
+    <groups>
+    </groups>
+    <test name="FirefoxTest" duration-ms="49275" started-at="2022-01-12T13:03:45Z" finished-at="2022-01-12T13:04:34Z">
+      <class name="com.trendyol.test.TrendyolAutomationTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.trendyol.test.TrendyolAutomationTest@62ee68d8]" name="beforeMethod" is-config="true" duration-ms="7101" started-at="2022-01-12T16:03:45Z" finished-at="2022-01-12T16:03:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[grid-chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="exampleTest1()[pri:0, instance:com.trendyol.test.TrendyolAutomationTest@62ee68d8]" name="exampleTest1" duration-ms="41907" started-at="2022-01-12T16:03:52Z" description="Login Check For Exist Customer" finished-at="2022-01-12T16:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampleTest1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.trendyol.test.TrendyolAutomationTest@62ee68d8]" name="afterMethod" is-config="true" duration-ms="226" started-at="2022-01-12T16:04:34Z" finished-at="2022-01-12T16:04:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.trendyol.test.TrendyolAutomationTest -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- TrendyolTest Suite -->
+</testng-results>

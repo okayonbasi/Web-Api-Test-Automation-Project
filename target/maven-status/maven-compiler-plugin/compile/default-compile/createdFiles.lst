@@ -1,0 +1,7 @@
+com\trendyol\jsonobject\BookRequest.class
+com\trendyol\utility\log.class
+com\trendyol\data\APITestCase.class
+com\trendyol\utility\DriverInit.class
+com\trendyol\data\GetData.class
+com\trendyol\jsonobject\BookResponse.class
+com\trendyol\base\BaseLibrary.class

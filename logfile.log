@@ -1,0 +1,1707 @@
+2022-06-24 20:47:11,713 INFO  [log] Browser name : chromey 
+2022-06-24 20:47:14,415 INFO  [log] Setup started 
+2022-06-24 20:47:15,828 INFO  [log] Web application launched 
+2022-06-24 20:47:15,828 INFO  [log] openUrl transaction passed 
+2022-06-24 20:47:16,245 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 20:47:16,317 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 20:47:21,352 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 20:47:21,352 INFO  [log] Statu : true 
+2022-06-24 20:47:53,987 ERROR [log] Error while finding element  e : Expected condition failed: waiting for visibility of all elements located by By.id: sp-subTitle (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56668}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: af1fb23ffd9727ea7d92fdedde3b7677 
+2022-06-24 20:51:11,326 INFO  [log] Browser name : chromey 
+2022-06-24 20:51:14,044 INFO  [log] Setup started 
+2022-06-24 20:51:15,603 INFO  [log] Web application launched 
+2022-06-24 20:51:15,604 INFO  [log] openUrl transaction passed 
+2022-06-24 20:51:16,000 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 20:51:16,066 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 20:51:20,969 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 20:51:20,969 INFO  [log] Statu : true 
+2022-06-24 21:00:43,437 INFO  [log] Browser name : chromey 
+2022-06-24 21:00:46,465 INFO  [log] Setup started 
+2022-06-24 21:00:48,091 INFO  [log] Web application launched 
+2022-06-24 21:00:48,092 INFO  [log] openUrl transaction passed 
+2022-06-24 21:00:48,561 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:00:48,637 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:00:53,138 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:00:53,138 INFO  [log] Statu : true 
+2022-06-24 21:00:56,058 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e3bd2ef6dbbf745a561eb677fd05a11a 
+2022-06-24 21:00:56,058 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e3bd2ef6dbbf745a561eb677fd05a11a 
+2022-06-24 21:02:14,957 INFO  [log] Browser name : chromey 
+2022-06-24 21:02:17,844 INFO  [log] Setup started 
+2022-06-24 21:02:19,270 INFO  [log] Web application launched 
+2022-06-24 21:02:19,271 INFO  [log] openUrl transaction passed 
+2022-06-24 21:02:19,783 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:02:19,856 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:02:24,974 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:02:24,975 INFO  [log] Statu : true 
+2022-06-24 21:03:42,053 ERROR [log] Error while finding element  e : Expected condition failed: waiting for visibility of all elements located by By.cssSelector: [class$='product-item-box-container'] h2 (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57287}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 62b87292268ad845565ad337efd13ba6 
+2022-06-24 21:03:54,188 INFO  [log] Browser name : chromey 
+2022-06-24 21:03:56,998 INFO  [log] Setup started 
+2022-06-24 21:03:58,567 INFO  [log] Web application launched 
+2022-06-24 21:03:58,568 INFO  [log] openUrl transaction passed 
+2022-06-24 21:03:59,015 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:03:59,090 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:04:04,285 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:04:04,286 INFO  [log] Statu : true 
+2022-06-24 21:05:26,882 ERROR [log] Error while finding element  e : Expected condition failed: waiting for visibility of all elements located by By.className: amount (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57390}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 51c1a4b9005c5dd9667d5b1626b721a0 
+2022-06-24 21:07:41,605 INFO  [log] Browser name : chromey 
+2022-06-24 21:07:44,481 INFO  [log] Setup started 
+2022-06-24 21:07:45,856 INFO  [log] Web application launched 
+2022-06-24 21:07:45,857 INFO  [log] openUrl transaction passed 
+2022-06-24 21:07:46,317 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:07:46,404 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:07:51,367 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:07:51,367 INFO  [log] Statu : true 
+2022-06-24 21:08:43,874 INFO  [log] Browser name : null 
+2022-06-24 21:10:41,466 INFO  [log] Browser name : chromey 
+2022-06-24 21:10:44,218 INFO  [log] Setup started 
+2022-06-24 21:10:45,827 INFO  [log] Web application launched 
+2022-06-24 21:10:45,828 INFO  [log] openUrl transaction passed 
+2022-06-24 21:10:46,229 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:10:46,301 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:10:56,177 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:10:56,177 INFO  [log] Statu : true 
+2022-06-24 21:10:59,268 ERROR [log] Error while clicking webelement : stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57687}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ae6958048f514bb6182558d606d5b5d 
+2022-06-24 21:11:25,787 INFO  [log] Browser name : chromey 
+2022-06-24 21:11:28,593 INFO  [log] Setup started 
+2022-06-24 21:11:33,264 INFO  [log] Web application launched 
+2022-06-24 21:11:33,265 INFO  [log] openUrl transaction passed 
+2022-06-24 21:11:33,690 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:11:33,755 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:11:39,179 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:11:39,179 INFO  [log] Statu : true 
+2022-06-24 21:11:41,985 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57748}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e7b35834b241701e6a937952660c3afb 
+2022-06-24 21:11:41,986 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57748}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e7b35834b241701e6a937952660c3afb 
+2022-06-24 21:12:39,031 INFO  [log] Browser name : chromey 
+2022-06-24 21:12:41,868 INFO  [log] Setup started 
+2022-06-24 21:12:43,464 INFO  [log] Web application launched 
+2022-06-24 21:12:43,465 INFO  [log] openUrl transaction passed 
+2022-06-24 21:12:43,877 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:12:43,941 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:12:49,191 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:12:49,191 INFO  [log] Statu : true 
+2022-06-24 21:14:20,877 INFO  [log] Browser name : chromey 
+2022-06-24 21:14:23,720 INFO  [log] Setup started 
+2022-06-24 21:14:25,568 INFO  [log] Web application launched 
+2022-06-24 21:14:25,568 INFO  [log] openUrl transaction passed 
+2022-06-24 21:14:25,982 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:14:26,045 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:14:31,036 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:14:31,036 INFO  [log] Statu : true 
+2022-06-24 21:16:18,367 INFO  [log] Browser name : chromey 
+2022-06-24 21:16:21,069 INFO  [log] Setup started 
+2022-06-24 21:16:22,546 INFO  [log] Web application launched 
+2022-06-24 21:16:22,547 INFO  [log] openUrl transaction passed 
+2022-06-24 21:16:22,999 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:16:23,085 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:16:27,589 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:16:27,589 INFO  [log] Statu : true 
+2022-06-24 21:17:06,624 INFO  [log] Browser name : chromey 
+2022-06-24 21:17:09,387 INFO  [log] Setup started 
+2022-06-24 21:17:10,999 INFO  [log] Web application launched 
+2022-06-24 21:17:11,000 INFO  [log] openUrl transaction passed 
+2022-06-24 21:17:11,416 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:17:11,483 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:17:16,746 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:17:16,746 INFO  [log] Statu : true 
+2022-06-24 21:17:21,094 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54990}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b209985b719ec1c18d78675b6ed5d4e4 
+2022-06-24 21:17:21,094 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54990}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b209985b719ec1c18d78675b6ed5d4e4 
+2022-06-24 21:17:48,422 INFO  [log] Browser name : chromey 
+2022-06-24 21:17:51,166 INFO  [log] Setup started 
+2022-06-24 21:17:52,672 INFO  [log] Web application launched 
+2022-06-24 21:17:52,673 INFO  [log] openUrl transaction passed 
+2022-06-24 21:17:53,114 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:17:53,190 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:17:58,084 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:17:58,085 INFO  [log] Statu : true 
+2022-06-24 21:18:01,224 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55052}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ac34fa4c0b01ef0607e98ddce3d33b08 
+2022-06-24 21:18:01,225 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55052}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ac34fa4c0b01ef0607e98ddce3d33b08 
+2022-06-24 21:18:21,243 INFO  [log] Browser name : chromey 
+2022-06-24 21:18:23,947 INFO  [log] Setup started 
+2022-06-24 21:18:25,986 INFO  [log] Web application launched 
+2022-06-24 21:18:25,987 INFO  [log] openUrl transaction passed 
+2022-06-24 21:18:26,421 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:18:26,507 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:18:38,677 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:18:38,677 INFO  [log] Statu : true 
+2022-06-24 21:19:18,233 INFO  [log] clicked by -->> By.cssSelector: [id='add-to-basket'] 
+2022-06-24 21:20:38,575 ERROR [log] Error while finding element  e : Expected condition failed: waiting for visibility of all elements located by By.className: amount (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55111}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b9a1d7b525fc3eadd0b5091681f69fa 
+2022-06-24 21:22:15,566 INFO  [log] Browser name : chromey 
+2022-06-24 21:22:18,481 INFO  [log] Setup started 
+2022-06-24 21:22:20,010 INFO  [log] Web application launched 
+2022-06-24 21:22:20,011 INFO  [log] openUrl transaction passed 
+2022-06-24 21:22:20,540 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:22:20,608 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:22:25,465 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:22:25,466 INFO  [log] Statu : true 
+2022-06-24 21:22:53,856 INFO  [log] clicked by -->> By.cssSelector: [id='add-to-basket'] 
+2022-06-24 21:22:55,009 ERROR [log] Error while clicking webelement : element click intercepted: Element <button type="button" id="add-to-basket" class="control-button gg-ui-button plr10 gg-ui-btn-default">...</button> is not clickable at point (1327, 806). Other element would receive the click: <div class="gg-ui-button gg-ui-btn-secondary policy-alert-v2-buttons">...</div>
+  (Session info: chrome=102.0.5005.115)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55274}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f694f5e32a5cf4d6aac148c28071626 
+2022-06-24 21:26:00,620 INFO  [log] Browser name : chromey 
+2022-06-24 21:26:03,974 INFO  [log] Setup started 
+2022-06-24 21:26:05,386 INFO  [log] Web application launched 
+2022-06-24 21:26:05,387 INFO  [log] openUrl transaction passed 
+2022-06-24 21:26:05,791 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:26:05,858 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:26:11,103 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:26:11,103 INFO  [log] Statu : true 
+2022-06-24 21:26:35,691 INFO  [log] clicked by -->> By.cssSelector: [id='add-to-basket'] 
+2022-06-24 21:26:36,855 ERROR [log] Error while clicking webelement : element click intercepted: Element <button type="button" id="add-to-basket" class="control-button gg-ui-button plr10 gg-ui-btn-default">...</button> is not clickable at point (1327, 782). Other element would receive the click: <div class="policy-title">...</div>
+  (Session info: chrome=102.0.5005.115)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55448}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d2ae503d5ef439ba3c60b0b99272f30 
+2022-06-24 21:27:46,082 INFO  [log] Browser name : chromey 
+2022-06-24 21:27:48,938 INFO  [log] Setup started 
+2022-06-24 21:27:50,704 INFO  [log] Web application launched 
+2022-06-24 21:27:50,704 INFO  [log] openUrl transaction passed 
+2022-06-24 21:27:51,105 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:27:51,180 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:27:56,387 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:27:56,387 INFO  [log] Statu : true 
+2022-06-24 21:30:24,573 INFO  [log] Browser name : chromey 
+2022-06-24 21:30:27,295 INFO  [log] Setup started 
+2022-06-24 21:30:28,726 INFO  [log] Web application launched 
+2022-06-24 21:30:28,727 INFO  [log] openUrl transaction passed 
+2022-06-24 21:30:29,226 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:30:29,311 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:30:34,493 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:30:34,493 INFO  [log] Statu : true 
+2022-06-24 21:31:42,818 ERROR [log] Error while finding element  e : Expected condition failed: waiting for visibility of all elements located by By.cssSelector: [class$='product-item-box-container'] h2 (tried for 60 second(s) with 500 milliseconds interval) 
+2022-06-24 21:33:28,953 INFO  [log] Browser name : chromeee 
+2022-06-24 21:33:31,997 INFO  [log] Setup started 
+2022-06-24 21:33:34,091 INFO  [log] Web application launched 
+2022-06-24 21:33:34,092 INFO  [log] openUrl transaction passed 
+2022-06-24 21:33:34,653 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:33:34,717 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:33:45,871 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:33:45,871 INFO  [log] Statu : true 
+2022-06-24 21:33:48,622 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55819}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 87a58314b3e916f3379fe23172250655 
+2022-06-24 21:33:48,623 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55819}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 87a58314b3e916f3379fe23172250655 
+2022-06-24 21:34:41,080 INFO  [log] Browser name : chromeee 
+2022-06-24 21:34:43,879 INFO  [log] Setup started 
+2022-06-24 21:34:45,480 INFO  [log] Web application launched 
+2022-06-24 21:34:45,480 INFO  [log] openUrl transaction passed 
+2022-06-24 21:34:45,975 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:34:46,047 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:34:50,968 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:34:50,968 INFO  [log] Statu : true 
+2022-06-24 21:35:59,717 INFO  [log] Browser name : grid-chromess 
+2022-06-24 21:36:02,447 INFO  [log] Setup started 
+2022-06-24 21:36:06,775 INFO  [log] Web application launched 
+2022-06-24 21:36:06,776 INFO  [log] openUrl transaction passed 
+2022-06-24 21:36:07,211 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:36:07,311 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:36:15,340 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:36:15,341 INFO  [log] Statu : true 
+2022-06-24 21:36:18,278 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55995}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9a9469a7cd79094fe47a58959acdb169 
+2022-06-24 21:36:18,279 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55995}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9a9469a7cd79094fe47a58959acdb169 
+2022-06-24 21:36:36,061 INFO  [log] Browser name : grid-chromess 
+2022-06-24 21:36:38,797 INFO  [log] Setup started 
+2022-06-24 21:36:40,713 INFO  [log] Web application launched 
+2022-06-24 21:36:40,713 INFO  [log] openUrl transaction passed 
+2022-06-24 21:36:41,177 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:36:41,245 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:36:50,576 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:36:50,576 INFO  [log] Statu : true 
+2022-06-24 21:38:23,700 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+       
+2022-06-24 21:40:24,566 INFO  [log] Browser name : null 
+2022-06-24 21:40:39,232 INFO  [log] Browser name : grid-chromess 
+2022-06-24 21:40:41,945 INFO  [log] Setup started 
+2022-06-24 21:40:43,514 INFO  [log] Web application launched 
+2022-06-24 21:40:43,515 INFO  [log] openUrl transaction passed 
+2022-06-24 21:40:43,896 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:40:43,963 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:40:48,369 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:40:48,369 INFO  [log] Statu : true 
+2022-06-24 21:42:05,539 INFO  [log] Browser name : firefox 
+2022-06-24 21:42:05,539 INFO  [log] Browser name : chrome 
+2022-06-24 21:42:11,009 INFO  [log] Setup started 
+2022-06-24 21:42:14,760 INFO  [log] Web application launched 
+2022-06-24 21:42:14,761 INFO  [log] openUrl transaction passed 
+2022-06-24 21:42:15,195 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:42:15,263 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:42:27,662 INFO  [log] Browser name : firefox 
+2022-06-24 21:42:27,662 INFO  [log] Browser name : chromeg 
+2022-06-24 21:42:30,373 INFO  [log] Setup started 
+2022-06-24 21:42:32,394 INFO  [log] Web application launched 
+2022-06-24 21:42:32,395 INFO  [log] openUrl transaction passed 
+2022-06-24 21:42:32,840 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:42:33,180 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:42:34,633 INFO  [log] Setup started 
+2022-06-24 21:42:36,744 INFO  [log] Web application launched 
+2022-06-24 21:42:36,745 INFO  [log] openUrl transaction passed 
+2022-06-24 21:42:37,534 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:42:37,871 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:42:40,240 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:42:40,242 INFO  [log] Statu : true 
+2022-06-24 21:42:48,427 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:42:48,427 INFO  [log] Statu : true 
+2022-06-24 21:42:51,674 ERROR [log] Error while finding elements  e : The element reference of <a class="sc-1n49x8z-1 izbuTw" href="https://www.gittigidiyor.com/masaustu-desktop-bilgisayar/dragos-drx829_spp_1021891?id=739324661" type="hover"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 11412, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f88d5532-bb91-4c86-baed-ce113d0c2b51 
+2022-06-24 21:42:51,675 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: The element reference of <a class="sc-1n49x8z-1 izbuTw" href="https://www.gittigidiyor.com/masaustu-desktop-bilgisayar/dragos-drx829_spp_1021891?id=739324661" type="hover"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 11412, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f88d5532-bb91-4c86-baed-ce113d0c2b51 
+2022-06-24 21:45:43,237 INFO  [log] Browser name : chrome 
+2022-06-24 21:46:19,878 INFO  [log] Browser name : chrome 
+2022-06-24 21:46:22,343 INFO  [log] Setup started 
+2022-06-24 21:46:23,781 INFO  [log] Web application launched 
+2022-06-24 21:46:23,781 INFO  [log] openUrl transaction passed 
+2022-06-24 21:46:24,163 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:46:24,241 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:46:29,205 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:46:29,205 INFO  [log] Statu : true 
+2022-06-24 21:46:31,906 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56571}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c0a3bc9f8b11966cc6e2243444dcb00 
+2022-06-24 21:46:31,907 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56571}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c0a3bc9f8b11966cc6e2243444dcb00 
+2022-06-24 21:51:43,253 INFO  [log] Browser name : chrome 
+2022-06-24 21:51:45,834 INFO  [log] Setup started 
+2022-06-24 21:51:47,910 INFO  [log] Web application launched 
+2022-06-24 21:51:47,910 INFO  [log] openUrl transaction passed 
+2022-06-24 21:51:48,331 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:51:48,400 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:51:53,156 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:51:53,157 INFO  [log] Statu : true 
+2022-06-24 21:53:12,146 ERROR [log] Error while finding element  e : Expected condition failed: waiting for visibility of all elements located by By.cssSelector: [class$='product-item-box-container'] h2 (tried for 60 second(s) with 500 milliseconds interval) 
+2022-06-24 21:54:12,252 INFO  [log] Browser name : chrome 
+2022-06-24 21:54:14,798 INFO  [log] Setup started 
+2022-06-24 21:54:17,775 INFO  [log] Web application launched 
+2022-06-24 21:54:17,776 INFO  [log] openUrl transaction passed 
+2022-06-24 21:54:18,207 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:54:18,472 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:54:27,784 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:54:27,784 INFO  [log] Statu : true 
+2022-06-24 21:54:30,718 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56702}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 908833892696eee9db17759388986b62 
+2022-06-24 21:56:38,725 INFO  [log] Browser name : chrome 
+2022-06-24 21:56:41,166 INFO  [log] Setup started 
+2022-06-24 21:56:42,819 INFO  [log] Web application launched 
+2022-06-24 21:56:42,820 INFO  [log] openUrl transaction passed 
+2022-06-24 21:56:43,210 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:56:43,483 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:56:48,006 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:56:48,006 INFO  [log] Statu : true 
+2022-06-24 21:56:52,888 INFO  [log] Checking exist element by -->> By.id: add-to-basket 
+2022-06-24 21:56:52,889 INFO  [log] Statu : true 
+2022-06-24 21:57:28,652 INFO  [log] Browser name : firefox 
+2022-06-24 21:57:33,123 INFO  [log] Setup started 
+2022-06-24 21:57:37,240 INFO  [log] Web application launched 
+2022-06-24 21:57:37,240 INFO  [log] openUrl transaction passed 
+2022-06-24 21:57:37,555 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:57:37,797 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:57:45,642 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:57:45,643 INFO  [log] Statu : true 
+2022-06-24 21:57:48,331 ERROR [log] Error while finding elements  e : The element reference of <a class="sc-1n49x8z-1 izbuTw" href="https://www.gittigidiyor.com/masaustu-desktop-bilgisayar/turbox-tx307_spp_997935?id=720116870" type="hover"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 23776, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0ffcff8c-6aab-43c6-96ad-b8e1bf3f9ff8 
+2022-06-24 21:57:50,173 INFO  [log] Checking exist element by -->> By.id: add-to-basket 
+2022-06-24 21:57:50,173 INFO  [log] Statu : true 
+2022-06-24 21:57:58,020 ERROR [log] Error while finding element  e : TypeError: browsingContext.currentWindowGlobal is null
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 23776, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0ffcff8c-6aab-43c6-96ad-b8e1bf3f9ff8
+*** Element info: {Using=css selector, value=[class$='product-item-box-container'] h2} 
+2022-06-24 21:58:33,492 INFO  [log] Browser name : firefox 
+2022-06-24 21:58:37,975 INFO  [log] Setup started 
+2022-06-24 21:58:39,383 INFO  [log] Web application launched 
+2022-06-24 21:58:39,384 INFO  [log] openUrl transaction passed 
+2022-06-24 21:58:39,885 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:58:40,142 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:58:44,411 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:58:44,411 INFO  [log] Statu : true 
+2022-06-24 21:58:47,296 ERROR [log] Error while finding elements  e : The element reference of <a class="sc-1n49x8z-1 izbuTw" href="https://www.gittigidiyor.com/masaustu-desktop-bilgisayar/turbox-atm00000014_spp_914421?id=718562883" type="hover"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 30348, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8047bd63-2324-467d-a81c-5d02a5fd894b 
+2022-06-24 21:58:49,031 INFO  [log] Checking exist element by -->> By.id: add-to-basket 
+2022-06-24 21:58:49,031 INFO  [log] Statu : true 
+2022-06-24 21:59:11,926 INFO  [log] Browser name : firefox 
+2022-06-24 21:59:16,528 INFO  [log] Setup started 
+2022-06-24 21:59:17,962 INFO  [log] Web application launched 
+2022-06-24 21:59:17,964 INFO  [log] openUrl transaction passed 
+2022-06-24 21:59:18,402 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 21:59:18,667 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 21:59:23,012 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 21:59:23,013 INFO  [log] Statu : true 
+2022-06-24 21:59:32,594 INFO  [log] Checking exist element by -->> By.id: add-to-basket 
+2022-06-24 21:59:32,595 INFO  [log] Statu : true 
+2022-06-24 22:00:57,430 INFO  [log] Browser name : firefox 
+2022-06-24 22:01:02,082 INFO  [log] Setup started 
+2022-06-24 22:01:04,123 INFO  [log] Web application launched 
+2022-06-24 22:01:04,124 INFO  [log] openUrl transaction passed 
+2022-06-24 22:01:04,426 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 22:01:04,603 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 22:01:08,548 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 22:01:08,548 INFO  [log] Statu : true 
+2022-06-24 22:01:11,498 ERROR [log] Error while finding elements  e : The element reference of <a class="sc-1n49x8z-1 izbuTw" href="https://www.gittigidiyor.com/masaustu-desktop-bilgisayar/turbox-tx1070_spp_1028694?id=742721665" type="hover"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 6180, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 8675852d-ed39-4f2a-b855-19f976f15f72 
+2022-06-24 22:01:12,962 INFO  [log] Checking exist element by -->> By.id: sp-addbasket-button 
+2022-06-24 22:01:12,964 INFO  [log] Statu : true 
+2022-06-24 22:01:38,327 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-24 22:01:40,503 INFO  [log] Value : 2 - SelectComboBox : 1
+2
+3
+4
+5
+6
+7
+8
+9
+10+ 
+2022-06-24 22:03:57,737 INFO  [log] Browser name : firefox 
+2022-06-24 22:04:02,457 INFO  [log] Setup started 
+2022-06-24 22:04:04,535 INFO  [log] Web application launched 
+2022-06-24 22:04:04,536 INFO  [log] openUrl transaction passed 
+2022-06-24 22:04:04,864 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 22:04:05,078 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 22:04:11,298 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 22:04:11,299 INFO  [log] Statu : true 
+2022-06-24 22:04:14,098 ERROR [log] Error while finding elements  e : The element reference of <a class="sc-1n49x8z-1 izbuTw" href="https://www.gittigidiyor.com/masaustu-desktop-bilgisayar/turbox-tx307_spp_997935?id=720116870" type="hover"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 23468, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4eeb01e7-be7c-487c-84ea-24d942a38375 
+2022-06-24 22:04:16,952 INFO  [log] Checking exist element by -->> By.id: sp-addbasket-button 
+2022-06-24 22:04:16,952 INFO  [log] Statu : true 
+2022-06-24 22:04:35,846 ERROR [log] Error while finding element  e : TypeError: browsingContext.currentWindowGlobal is null
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 23468, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4eeb01e7-be7c-487c-84ea-24d942a38375
+*** Element info: {Using=css selector, value=[class$='product-item-box-container'] h2} 
+2022-06-24 22:08:50,145 INFO  [log] Browser name : firefox 
+2022-06-24 22:08:54,698 INFO  [log] Setup started 
+2022-06-24 22:08:58,799 INFO  [log] Web application launched 
+2022-06-24 22:08:58,799 INFO  [log] openUrl transaction passed 
+2022-06-24 22:08:59,119 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 22:08:59,381 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 22:09:06,453 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 22:09:06,454 INFO  [log] Statu : true 
+2022-06-24 22:09:09,360 ERROR [log] Error while finding elements  e : The element reference of <a class="sc-1n49x8z-1 izbuTw" href="https://www.gittigidiyor.com/masaustu-desktop-bilgisayar/turbox-tx1063_spp_1028687?id=742721569" type="hover"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 20468, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7f02b95d-51cc-4416-a896-6b32269a85fc 
+2022-06-24 22:10:10,946 ERROR [log] Error while finding element  e : Expected condition failed: waiting for visibility of all elements located by By.cssSelector: [class='header-cart-container-title'] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 20468, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7f02b95d-51cc-4416-a896-6b32269a85fc 
+2022-06-24 22:10:10,946 ERROR [log] Error while checking field : java.lang.RuntimeException: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of all elements located by By.cssSelector: [class='header-cart-container-title'] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 20468, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7f02b95d-51cc-4416-a896-6b32269a85fc 
+2022-06-24 22:10:11,816 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-24 22:12:20,559 INFO  [log] Browser name : chrome 
+2022-06-24 22:12:22,955 INFO  [log] Setup started 
+2022-06-24 22:12:27,244 INFO  [log] Web application launched 
+2022-06-24 22:12:27,244 INFO  [log] openUrl transaction passed 
+2022-06-24 22:12:27,628 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 22:12:27,689 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 22:12:36,512 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 22:12:36,512 INFO  [log] Statu : true 
+2022-06-24 22:12:39,330 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57599}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a09accc54442fed6a046b78165a80196 
+2022-06-24 22:12:39,330 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57599}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a09accc54442fed6a046b78165a80196 
+2022-06-24 22:16:01,762 INFO  [log] Browser name : chrome 
+2022-06-24 22:16:04,135 INFO  [log] Setup started 
+2022-06-24 22:16:05,375 INFO  [log] Web application launched 
+2022-06-24 22:16:05,375 INFO  [log] openUrl transaction passed 
+2022-06-24 22:16:05,936 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 22:16:06,009 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 22:16:10,874 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 22:16:10,875 INFO  [log] Statu : true 
+2022-06-24 22:16:14,481 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52565}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c3dbca965390db41a9a32e796f6ea70 
+2022-06-24 22:16:14,482 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52565}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c3dbca965390db41a9a32e796f6ea70 
+2022-06-24 22:17:42,979 INFO  [log] Browser name : firefox 
+2022-06-24 22:17:48,222 INFO  [log] Setup started 
+2022-06-24 22:17:50,194 INFO  [log] Web application launched 
+2022-06-24 22:17:50,195 INFO  [log] openUrl transaction passed 
+2022-06-24 22:17:50,541 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 22:17:50,610 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 22:17:54,918 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 22:17:54,918 INFO  [log] Statu : true 
+2022-06-24 22:17:57,853 ERROR [log] Error while finding elements  e : The element reference of <a class="sc-1n49x8z-1 izbuTw" href="https://www.gittigidiyor.com/masaustu-desktop-bilgisayar/turbox-tx1063_spp_1028687?id=742721569" type="hover"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 19820, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2924d22d-f98a-41d7-818d-e92dfed12c66 
+2022-06-24 22:17:57,854 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: The element reference of <a class="sc-1n49x8z-1 izbuTw" href="https://www.gittigidiyor.com/masaustu-desktop-bilgisayar/turbox-tx1063_spp_1028687?id=742721569" type="hover"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 19820, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2924d22d-f98a-41d7-818d-e92dfed12c66 
+2022-06-24 22:23:28,381 INFO  [log] Browser name : firefox 
+2022-06-24 22:23:32,980 INFO  [log] Setup started 
+2022-06-24 22:23:37,072 INFO  [log] Web application launched 
+2022-06-24 22:23:37,073 INFO  [log] openUrl transaction passed 
+2022-06-24 22:23:37,389 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 22:23:37,484 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 22:23:45,628 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 22:23:45,628 INFO  [log] Statu : true 
+2022-06-24 22:23:48,456 ERROR [log] Error while finding elements  e : The element reference of <a class="sc-1n49x8z-1 izbuTw" href="https://www.gittigidiyor.com/masaustu-desktop-bilgisayar/turbox-tx1063_spp_1028687?id=742721569" type="hover"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 29364, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9628fb9b-481a-43bb-8f90-090c43a3c029 
+2022-06-24 22:23:48,456 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: The element reference of <a class="sc-1n49x8z-1 izbuTw" href="https://www.gittigidiyor.com/masaustu-desktop-bilgisayar/turbox-tx1063_spp_1028687?id=742721569" type="hover"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 29364, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9628fb9b-481a-43bb-8f90-090c43a3c029 
+2022-06-24 22:25:23,550 INFO  [log] Browser name : chrome 
+2022-06-24 22:25:26,004 INFO  [log] Setup started 
+2022-06-24 22:25:28,631 INFO  [log] Web application launched 
+2022-06-24 22:25:28,632 INFO  [log] openUrl transaction passed 
+2022-06-24 22:25:29,049 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 22:25:29,124 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 22:25:37,587 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 22:25:37,587 INFO  [log] Statu : true 
+2022-06-24 22:25:50,754 INFO  [log] clicked by -->> By.id: sp-addbasket-button 
+2022-06-24 22:25:51,567 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-24 22:25:53,931 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-24 22:25:54,229 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+       
+2022-06-24 22:27:18,958 INFO  [log] Browser name : chrome 
+2022-06-24 22:27:21,362 INFO  [log] Setup started 
+2022-06-24 22:27:27,934 INFO  [log] Web application launched 
+2022-06-24 22:27:27,934 INFO  [log] openUrl transaction passed 
+2022-06-24 22:27:28,337 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 22:27:28,410 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 22:27:37,970 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 22:27:37,970 INFO  [log] Statu : true 
+2022-06-24 22:27:49,822 INFO  [log] clicked by -->> By.id: sp-addbasket-button 
+2022-06-24 22:27:50,663 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-24 22:27:55,136 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-24 22:27:55,320 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+       
+2022-06-24 22:29:26,743 INFO  [log] Browser name : chrome 
+2022-06-24 22:29:29,204 INFO  [log] Setup started 
+2022-06-24 22:29:30,639 INFO  [log] Web application launched 
+2022-06-24 22:29:30,640 INFO  [log] openUrl transaction passed 
+2022-06-24 22:29:31,057 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 22:29:31,140 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 22:29:35,982 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 22:29:35,983 INFO  [log] Statu : true 
+2022-06-24 22:29:42,347 INFO  [log] clicked by -->> By.id: sp-addbasket-button 
+2022-06-24 22:29:43,461 ERROR [log] Error while clicking webelement : element click intercepted: Element <div id="sp-addbasket-button">...</div> is not clickable at point (1327, 782). Other element would receive the click: <div class="policy-title">...</div>
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53288}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5df3248e2520dbe213c7e2707b80e606 
+2022-06-24 22:30:33,847 INFO  [log] Browser name : chrome 
+2022-06-24 22:30:36,254 INFO  [log] Setup started 
+2022-06-24 22:30:38,089 INFO  [log] Web application launched 
+2022-06-24 22:30:38,090 INFO  [log] openUrl transaction passed 
+2022-06-24 22:30:38,955 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 22:30:39,566 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 22:30:44,017 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 22:30:44,017 INFO  [log] Statu : true 
+2022-06-24 22:30:53,767 INFO  [log] clicked by -->> By.id: sp-addbasket-button 
+2022-06-24 22:30:54,837 ERROR [log] Error while clicking webelement : element click intercepted: Element <div id="sp-addbasket-button">...</div> is not clickable at point (1327, 800). Other element would receive the click: <div class="gg-ui-button gg-ui-btn-secondary policy-alert-v2-buttons">...</div>
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53365}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e6a9f69efd5da06a6e5532ae02b541f0 
+2022-06-24 22:33:02,244 INFO  [log] Browser name : chrome 
+2022-06-24 22:33:04,712 INFO  [log] Setup started 
+2022-06-24 22:33:06,362 INFO  [log] Web application launched 
+2022-06-24 22:33:06,363 INFO  [log] openUrl transaction passed 
+2022-06-24 22:33:07,315 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 22:33:07,946 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 22:33:12,416 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 22:33:12,417 INFO  [log] Statu : true 
+2022-06-24 22:33:25,932 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-24 22:33:27,087 ERROR [log] Error while clicking webelement : element click intercepted: Element <button type="button" id="add-to-basket" class="control-button gg-ui-button plr10 gg-ui-btn-default">...</button> is not clickable at point (1327, 806). Other element would receive the click: <div class="gg-ui-button gg-ui-btn-secondary policy-alert-v2-buttons">...</div>
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53447}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1d5102c50d65673b08cf2998a2ae7e98 
+2022-06-24 23:03:31,818 INFO  [log] Browser name : chrome 
+2022-06-24 23:04:08,547 INFO  [log] Browser name : chrome 
+2022-06-24 23:06:36,234 INFO  [log] Browser name : chrome 
+2022-06-24 23:10:04,913 INFO  [log] Browser name : chromea 
+2022-06-24 23:14:33,856 INFO  [log] Browser name : chrome 
+2022-06-24 23:15:29,398 INFO  [log] Browser name : firefox 
+2022-06-24 23:17:32,856 INFO  [log] Browser name : firefox 
+2022-06-24 23:22:46,813 INFO  [log] Browser name : chrome 
+2022-06-24 23:22:49,232 INFO  [log] Setup started 
+2022-06-24 23:22:54,589 INFO  [log] Web application launched 
+2022-06-24 23:22:54,589 INFO  [log] openUrl transaction passed 
+2022-06-24 23:22:54,894 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 23:22:54,922 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 23:23:08,809 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 23:23:08,809 INFO  [log] Statu : true 
+2022-06-24 23:23:16,247 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-24 23:24:12,288 INFO  [log] Browser name : chrome 
+2022-06-24 23:24:14,685 INFO  [log] Setup started 
+2022-06-24 23:24:21,518 INFO  [log] Web application launched 
+2022-06-24 23:24:21,519 INFO  [log] openUrl transaction passed 
+2022-06-24 23:24:21,773 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 23:24:21,798 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 23:24:30,709 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 23:24:30,709 INFO  [log] Statu : true 
+2022-06-24 23:24:50,165 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-24 23:25:00,578 ERROR [log] Error while finding element  e : Cannot locate an element using css selector=[class$='product-item-box-container'] h2
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: RemoteWebDriver 
+2022-06-24 23:25:39,184 INFO  [log] Browser name : chrome 
+2022-06-24 23:25:41,585 INFO  [log] Setup started 
+2022-06-24 23:25:43,151 INFO  [log] Web application launched 
+2022-06-24 23:25:43,152 INFO  [log] openUrl transaction passed 
+2022-06-24 23:25:48,427 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 23:25:48,450 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 23:25:57,320 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 23:25:57,321 INFO  [log] Statu : true 
+2022-06-24 23:26:04,798 ERROR [log] Error while finding element  e : Cannot locate an element using id=sp-subTitle
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: RemoteWebDriver 
+2022-06-24 23:29:59,684 INFO  [log] Browser name : chrome 
+2022-06-24 23:30:02,082 INFO  [log] Setup started 
+2022-06-24 23:30:05,351 INFO  [log] Web application launched 
+2022-06-24 23:30:05,352 INFO  [log] openUrl transaction passed 
+2022-06-24 23:30:05,691 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 23:30:05,777 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 23:30:19,103 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 23:30:19,103 INFO  [log] Statu : true 
+2022-06-24 23:30:28,171 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-24 23:31:35,615 INFO  [log] Browser name : chrome 
+2022-06-24 23:31:38,013 INFO  [log] Setup started 
+2022-06-24 23:31:39,445 INFO  [log] Web application launched 
+2022-06-24 23:31:39,445 INFO  [log] openUrl transaction passed 
+2022-06-24 23:31:42,139 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 23:31:42,990 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 23:31:54,964 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 23:31:54,965 INFO  [log] Statu : true 
+2022-06-24 23:32:56,076 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-24 23:32:57,240 ERROR [log] Error while clicking webelement : element click intercepted: Element <button type="button" id="add-to-basket" class="control-button gg-ui-button plr10 gg-ui-btn-default">...</button> is not clickable at point (1327, 806). Other element would receive the click: <div class="gg-ui-button gg-ui-btn-secondary policy-alert-v2-buttons">...</div>
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54680}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b83c43c0233bf4dbe1e2bee1632f97a3 
+2022-06-24 23:38:54,503 INFO  [log] Browser name : chrome 
+2022-06-24 23:38:56,949 INFO  [log] Setup started 
+2022-06-24 23:38:58,467 INFO  [log] Web application launched 
+2022-06-24 23:38:58,468 INFO  [log] openUrl transaction passed 
+2022-06-24 23:40:49,577 INFO  [log] Browser name : chrome 
+2022-06-24 23:40:51,967 INFO  [log] Setup started 
+2022-06-24 23:40:54,251 INFO  [log] Web application launched 
+2022-06-24 23:40:54,251 INFO  [log] openUrl transaction passed 
+2022-06-24 23:41:24,677 ERROR [log] Error while finding element  e : Expected condition failed: waiting for element to no longer be visible: By.cssSelector: [data-cy='header-search-input'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54827}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 848ed9442b6709ea20e626705b974151 
+2022-06-24 23:41:24,678 ERROR [log] Error while filling field : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to no longer be visible: By.cssSelector: [data-cy='header-search-input'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54827}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 848ed9442b6709ea20e626705b974151 
+2022-06-24 23:41:50,633 INFO  [log] Browser name : chrome 
+2022-06-24 23:41:53,025 INFO  [log] Setup started 
+2022-06-24 23:42:00,461 INFO  [log] Web application launched 
+2022-06-24 23:42:00,462 INFO  [log] openUrl transaction passed 
+2022-06-24 23:42:00,722 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 23:42:00,752 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 23:42:22,970 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 23:42:22,970 INFO  [log] Statu : true 
+2022-06-24 23:42:44,039 ERROR [log] Error while finding element  e : Cannot locate an element using css selector=[class$='product-item-box-container'] h2
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: RemoteWebDriver 
+2022-06-24 23:43:29,836 INFO  [log] Browser name : chrome 
+2022-06-24 23:43:32,226 INFO  [log] Setup started 
+2022-06-24 23:43:36,384 INFO  [log] Web application launched 
+2022-06-24 23:43:36,385 INFO  [log] openUrl transaction passed 
+2022-06-24 23:43:36,694 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 23:43:36,747 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 23:43:49,384 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 23:43:49,385 INFO  [log] Statu : true 
+2022-06-24 23:44:54,988 INFO  [log] Browser name : chrome 
+2022-06-24 23:44:57,351 INFO  [log] Setup started 
+2022-06-24 23:45:02,409 INFO  [log] Web application launched 
+2022-06-24 23:45:02,409 INFO  [log] openUrl transaction passed 
+2022-06-24 23:45:07,562 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 23:45:07,615 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 23:45:21,811 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 23:45:21,811 INFO  [log] Statu : true 
+2022-06-24 23:46:56,917 INFO  [log] Browser name : chrome 
+2022-06-24 23:46:59,522 INFO  [log] Setup started 
+2022-06-24 23:47:02,035 INFO  [log] Web application launched 
+2022-06-24 23:47:02,037 INFO  [log] openUrl transaction passed 
+2022-06-24 23:47:02,346 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 23:47:02,395 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 23:47:12,528 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 23:47:12,528 INFO  [log] Statu : true 
+2022-06-24 23:52:23,386 INFO  [log] Browser name : chrome 
+2022-06-24 23:52:25,848 INFO  [log] Setup started 
+2022-06-24 23:52:27,249 INFO  [log] Web application launched 
+2022-06-24 23:52:27,250 INFO  [log] openUrl transaction passed 
+2022-06-24 23:52:27,631 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 23:52:27,907 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 23:52:36,933 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 23:52:36,934 INFO  [log] Statu : true 
+2022-06-24 23:54:04,390 INFO  [log] Browser name : chrome 
+2022-06-24 23:54:06,812 INFO  [log] Setup started 
+2022-06-24 23:54:08,314 INFO  [log] Web application launched 
+2022-06-24 23:54:08,315 INFO  [log] openUrl transaction passed 
+2022-06-24 23:54:08,713 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 23:54:08,958 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 23:54:17,517 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 23:54:17,518 INFO  [log] Statu : true 
+2022-06-24 23:54:20,287 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55153}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 56fb80c91b19270c2b6685470820b597 
+2022-06-24 23:54:20,288 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55153}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 56fb80c91b19270c2b6685470820b597 
+2022-06-24 23:56:29,482 INFO  [log] Browser name : chrome 
+2022-06-24 23:56:32,186 INFO  [log] Setup started 
+2022-06-24 23:56:34,053 INFO  [log] Web application launched 
+2022-06-24 23:56:34,054 INFO  [log] openUrl transaction passed 
+2022-06-24 23:56:34,424 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-24 23:56:34,659 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-24 23:56:43,938 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-24 23:56:43,939 INFO  [log] Statu : true 
+2022-06-24 23:56:46,923 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55208}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 85f0853336ab5f4ad8400ce3adfb50e7 
+2022-06-24 23:56:46,924 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55208}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 85f0853336ab5f4ad8400ce3adfb50e7 
+2022-06-25 00:18:07,755 INFO  [log] Browser name : chrome 
+2022-06-25 00:18:10,415 INFO  [log] Setup started 
+2022-06-25 00:18:11,993 INFO  [log] Web application launched 
+2022-06-25 00:18:11,994 INFO  [log] openUrl transaction passed 
+2022-06-25 00:18:12,307 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:18:12,551 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:18:16,388 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:18:16,388 INFO  [log] Statu : true 
+2022-06-25 00:18:17,255 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:18:21,029 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55436}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 75260c0e930a21a203aed4ba0c6a2adc 
+2022-06-25 00:18:25,961 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:18:27,386 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:21:25,316 INFO  [log] Browser name : chrome 
+2022-06-25 00:21:27,850 INFO  [log] Setup started 
+2022-06-25 00:21:29,031 INFO  [log] Web application launched 
+2022-06-25 00:21:29,032 INFO  [log] openUrl transaction passed 
+2022-06-25 00:21:29,546 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:21:29,794 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:21:33,571 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:21:33,572 INFO  [log] Statu : true 
+2022-06-25 00:21:34,458 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:21:38,091 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55501}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 63edc653e39e3508d8ea0840c00b042b 
+2022-06-25 00:21:40,810 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:21:42,833 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:21:42,923 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:21:44,268 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:21:44,362 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:21:47,347 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:21:47,452 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:21:48,495 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:21:48,590 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:21:49,931 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:21:50,026 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:21:51,032 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:21:51,133 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:21:52,172 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:21:52,343 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:21:54,133 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:21:54,228 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:21:55,723 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:21:55,824 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:21:57,721 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:21:57,829 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:21:59,444 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:21:59,598 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:01,271 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:22:01,348 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:02,938 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:22:03,016 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:04,846 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:22:04,939 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:06,530 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:22:06,607 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:08,473 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:22:08,569 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:10,098 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:22:10,175 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:12,047 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:22:12,125 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:13,746 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:22:13,827 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:15,679 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:22:15,753 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:17,336 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:22:17,424 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:19,277 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:22:19,351 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:38,513 INFO  [log] Browser name : chrome 
+2022-06-25 00:22:41,360 INFO  [log] Setup started 
+2022-06-25 00:22:43,435 INFO  [log] Web application launched 
+2022-06-25 00:22:43,435 INFO  [log] openUrl transaction passed 
+2022-06-25 00:22:43,921 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:22:44,257 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:22:48,899 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:22:48,899 INFO  [log] Statu : true 
+2022-06-25 00:22:49,833 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:22:53,433 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55549}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 153c50fb50be3602ca362f8554e83780 
+2022-06-25 00:22:55,949 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:22:56,863 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:22:56,987 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:25:49,387 INFO  [log] Browser name : chrome 
+2022-06-25 00:25:52,131 INFO  [log] Setup started 
+2022-06-25 00:25:53,831 INFO  [log] Web application launched 
+2022-06-25 00:25:53,831 INFO  [log] openUrl transaction passed 
+2022-06-25 00:25:54,248 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:25:54,531 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:25:58,545 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:25:58,546 INFO  [log] Statu : true 
+2022-06-25 00:25:59,491 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:26:02,973 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55603}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f895fa6ed5f781232067e6015bb830a1 
+2022-06-25 00:27:01,106 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:27:03,100 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:27:03,231 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:27:06,758 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 00:27:06,940 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+       
+2022-06-25 00:27:44,486 INFO  [log] Browser name : chrome 
+2022-06-25 00:27:46,995 INFO  [log] Setup started 
+2022-06-25 00:27:48,510 INFO  [log] Web application launched 
+2022-06-25 00:27:48,511 INFO  [log] openUrl transaction passed 
+2022-06-25 00:27:48,911 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:27:49,160 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:27:53,275 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:27:53,276 INFO  [log] Statu : true 
+2022-06-25 00:27:54,207 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:27:57,872 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55694}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3781ad734631f1a24072ec5c64db5d15 
+2022-06-25 00:29:01,775 INFO  [log] Browser name : chrome 
+2022-06-25 00:29:04,225 INFO  [log] Setup started 
+2022-06-25 00:29:05,713 INFO  [log] Web application launched 
+2022-06-25 00:29:05,713 INFO  [log] openUrl transaction passed 
+2022-06-25 00:29:06,089 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:29:06,323 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:29:10,057 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:29:10,058 INFO  [log] Statu : true 
+2022-06-25 00:29:10,874 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:29:14,660 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55744}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ce3c429d0d8689c52b51adb9183af877 
+2022-06-25 00:30:17,950 INFO  [log] Browser name : chrome 
+2022-06-25 00:30:20,483 INFO  [log] Setup started 
+2022-06-25 00:30:21,998 INFO  [log] Web application launched 
+2022-06-25 00:30:21,998 INFO  [log] openUrl transaction passed 
+2022-06-25 00:30:22,350 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:30:22,585 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:30:26,467 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:30:26,468 INFO  [log] Statu : true 
+2022-06-25 00:30:27,374 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:30:31,024 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55836}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d7062e67a94287d62e06e0afc73160ce 
+2022-06-25 00:30:49,641 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:30:51,665 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:30:51,786 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:30:54,825 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 00:30:55,024 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                       
+2022-06-25 00:32:14,995 INFO  [log] Browser name : chrome 
+2022-06-25 00:32:17,609 INFO  [log] Setup started 
+2022-06-25 00:32:19,191 INFO  [log] Web application launched 
+2022-06-25 00:32:19,192 INFO  [log] openUrl transaction passed 
+2022-06-25 00:32:19,586 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:32:19,828 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:32:23,846 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:32:23,847 INFO  [log] Statu : true 
+2022-06-25 00:32:24,757 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:32:28,577 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55887}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7405f8c32d252ca3855bd2b446547f48 
+2022-06-25 00:32:31,689 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:32:34,186 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:32:34,310 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:34:34,831 INFO  [log] Browser name : chrome 
+2022-06-25 00:34:37,673 INFO  [log] Setup started 
+2022-06-25 00:34:39,316 INFO  [log] Web application launched 
+2022-06-25 00:34:39,317 INFO  [log] openUrl transaction passed 
+2022-06-25 00:34:39,698 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:34:39,939 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:34:44,157 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:34:44,158 INFO  [log] Statu : true 
+2022-06-25 00:34:45,112 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:34:48,786 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55937}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a845dcacda5167edc5f6a5aa0d6d6b89 
+2022-06-25 00:34:54,048 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:34:56,017 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:34:56,155 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:35:14,499 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 00:35:19,120 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                       
+2022-06-25 00:35:56,803 INFO  [log] Browser name : chrome 
+2022-06-25 00:35:59,251 INFO  [log] Setup started 
+2022-06-25 00:36:00,817 INFO  [log] Web application launched 
+2022-06-25 00:36:00,818 INFO  [log] openUrl transaction passed 
+2022-06-25 00:36:01,301 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:36:01,584 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:36:05,166 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:36:05,166 INFO  [log] Statu : true 
+2022-06-25 00:36:05,990 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:36:09,564 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55986}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ffec8538d5ab703817179c9d6930763f 
+2022-06-25 00:36:12,458 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:36:14,512 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:36:14,654 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:37:18,971 INFO  [log] Browser name : chrome 
+2022-06-25 00:37:21,356 INFO  [log] Setup started 
+2022-06-25 00:37:22,804 INFO  [log] Web application launched 
+2022-06-25 00:37:22,804 INFO  [log] openUrl transaction passed 
+2022-06-25 00:37:23,224 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:37:23,464 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:37:27,305 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:37:27,306 INFO  [log] Statu : true 
+2022-06-25 00:37:28,191 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:37:31,800 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e91bc8fc1d79aaa679fc5af33398da3 
+2022-06-25 00:37:36,440 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:37:37,364 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:37:37,485 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:38:31,920 INFO  [log] Browser name : chrome 
+2022-06-25 00:38:34,449 INFO  [log] Setup started 
+2022-06-25 00:38:35,856 INFO  [log] Web application launched 
+2022-06-25 00:38:35,858 INFO  [log] openUrl transaction passed 
+2022-06-25 00:38:36,245 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:38:36,516 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:38:40,338 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:38:40,340 INFO  [log] Statu : true 
+2022-06-25 00:38:41,206 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:38:44,656 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56079}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5c2a7696ab0e0d9bd6e3eb34659ccadb 
+2022-06-25 00:38:47,458 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:38:48,433 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:38:48,553 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:40:16,343 INFO  [log] Browser name : chrome 
+2022-06-25 00:40:19,094 INFO  [log] Setup started 
+2022-06-25 00:40:20,640 INFO  [log] Web application launched 
+2022-06-25 00:40:20,640 INFO  [log] openUrl transaction passed 
+2022-06-25 00:40:20,961 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:40:21,214 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:40:25,390 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:40:25,390 INFO  [log] Statu : true 
+2022-06-25 00:40:26,286 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:40:29,935 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56127}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f1a24151c8e5cabcf9a3ad2835cf96af 
+2022-06-25 00:40:32,334 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:40:34,386 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:40:34,511 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:41:40,325 INFO  [log] Browser name : chrome 
+2022-06-25 00:41:42,786 INFO  [log] Setup started 
+2022-06-25 00:41:44,298 INFO  [log] Web application launched 
+2022-06-25 00:41:44,299 INFO  [log] openUrl transaction passed 
+2022-06-25 00:41:44,762 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:41:45,031 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:41:49,060 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:41:49,061 INFO  [log] Statu : true 
+2022-06-25 00:41:49,932 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:41:53,576 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56177}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d7be6351e53e96a8e9d5b52646f3962f 
+2022-06-25 00:41:55,929 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:41:56,849 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:41:56,971 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:49:43,483 INFO  [log] Browser name : chrome 
+2022-06-25 00:49:45,891 INFO  [log] Setup started 
+2022-06-25 00:49:47,690 INFO  [log] Web application launched 
+2022-06-25 00:49:47,691 INFO  [log] openUrl transaction passed 
+2022-06-25 00:49:48,059 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:49:48,301 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:49:52,316 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:49:52,317 INFO  [log] Statu : true 
+2022-06-25 00:49:53,217 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:49:56,730 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56287}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a23ee97020d41b7774f1137568b583e 
+2022-06-25 00:49:59,698 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:50:01,683 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:50:01,819 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:53:09,276 INFO  [log] Browser name : chrome 
+2022-06-25 00:53:11,766 INFO  [log] Setup started 
+2022-06-25 00:53:13,273 INFO  [log] Web application launched 
+2022-06-25 00:53:13,275 INFO  [log] openUrl transaction passed 
+2022-06-25 00:53:13,713 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:53:13,969 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:53:18,034 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:53:18,034 INFO  [log] Statu : true 
+2022-06-25 00:53:18,901 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:53:22,737 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56343}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fcc46dafdcee671513822c904c0e74b8 
+2022-06-25 00:53:25,615 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:53:26,559 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:53:26,681 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:56:03,059 INFO  [log] Browser name : chrome 
+2022-06-25 00:56:05,671 INFO  [log] Setup started 
+2022-06-25 00:56:07,076 INFO  [log] Web application launched 
+2022-06-25 00:56:07,077 INFO  [log] openUrl transaction passed 
+2022-06-25 00:56:07,429 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:56:07,681 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:56:11,381 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:56:11,382 INFO  [log] Statu : true 
+2022-06-25 00:56:12,269 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:56:15,858 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56407}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fa3c67b9b5dde5fa12cb2fa76bdc09d3 
+2022-06-25 00:56:18,421 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:56:19,383 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:56:19,518 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:56:26,111 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 00:56:26,309 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+       
+2022-06-25 00:56:27,449 INFO  [log] There is 2 product in basket 
+2022-06-25 00:56:27,579 INFO  [log] clicked by -->> By.cssSelector: [class$='product-item-box-container'] [title='Sil'] 
+2022-06-25 00:57:50,618 INFO  [log] Browser name : chrome 
+2022-06-25 00:57:53,248 INFO  [log] Setup started 
+2022-06-25 00:57:54,696 INFO  [log] Web application launched 
+2022-06-25 00:57:54,697 INFO  [log] openUrl transaction passed 
+2022-06-25 00:57:55,611 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 00:57:56,285 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 00:58:01,305 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:58:01,305 INFO  [log] Statu : true 
+2022-06-25 00:58:03,815 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 00:58:09,571 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56463}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bf57472b99757f58cd9232fde086250b 
+2022-06-25 00:58:17,369 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 00:58:18,225 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 00:58:18,861 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 00:58:23,590 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 00:58:24,417 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+       
+2022-06-25 01:01:00,691 INFO  [log] Browser name : chrome 
+2022-06-25 01:01:03,307 INFO  [log] Setup started 
+2022-06-25 01:01:04,704 INFO  [log] Web application launched 
+2022-06-25 01:01:04,705 INFO  [log] openUrl transaction passed 
+2022-06-25 01:01:05,551 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 01:01:06,193 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 01:01:10,662 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 01:01:10,662 INFO  [log] Statu : true 
+2022-06-25 01:01:11,499 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 01:01:16,215 INFO  [log] clicked by -->> By.cssSelector: [data-testid='productImageSlider'] 
+2022-06-25 01:01:26,593 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 01:01:27,435 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 01:01:28,086 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 01:01:32,751 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 01:01:33,529 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+       
+2022-06-25 01:01:34,877 INFO  [log] There is 2 product in basket 
+2022-06-25 01:01:35,563 INFO  [log] clicked by -->> By.cssSelector: [class$='product-item-box-container'] [title='Sil'] 
+2022-06-25 01:02:33,917 INFO  [log] Browser name : chrome 
+2022-06-25 01:02:36,333 INFO  [log] Setup started 
+2022-06-25 01:02:37,952 INFO  [log] Web application launched 
+2022-06-25 01:02:37,952 INFO  [log] openUrl transaction passed 
+2022-06-25 01:02:38,807 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 01:02:39,452 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 01:02:43,577 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 01:02:43,578 INFO  [log] Statu : true 
+2022-06-25 01:02:44,478 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 01:02:48,994 INFO  [log] clicked by -->> By.cssSelector: [data-testid='productImageSlider'] 
+2022-06-25 01:02:52,502 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 01:02:53,336 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 01:02:53,978 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 01:02:59,604 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 01:03:00,465 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+       
+2022-06-25 01:03:02,184 INFO  [log] There is 2 product in basket 
+2022-06-25 01:03:02,854 INFO  [log] clicked by -->> By.cssSelector: [class$='product-item-box-container'] [title='Sil'] 
+2022-06-25 01:04:24,975 INFO  [log] Browser name : chrome 
+2022-06-25 01:04:27,505 INFO  [log] Setup started 
+2022-06-25 01:04:29,071 INFO  [log] Web application launched 
+2022-06-25 01:04:29,071 INFO  [log] openUrl transaction passed 
+2022-06-25 01:04:29,928 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 01:04:30,569 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 01:04:34,570 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 01:04:34,570 INFO  [log] Statu : true 
+2022-06-25 01:04:35,418 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 01:04:40,068 INFO  [log] clicked by -->> By.cssSelector: [data-testid='productImageSlider'] 
+2022-06-25 01:04:44,719 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 01:04:45,555 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 01:04:46,201 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 01:04:50,905 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 01:04:51,671 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+       
+2022-06-25 01:04:53,302 INFO  [log] There is 2 product in basket 
+2022-06-25 01:04:54,015 INFO  [log] clicked by -->> By.cssSelector: [class$='product-item-box-container'] [title='Sil'] 
+2022-06-25 01:04:55,859 INFO  [log] The basker is empty 
+2022-06-25 01:05:21,420 INFO  [log] Browser name : firefox 
+2022-06-25 01:05:21,420 INFO  [log] Browser name : chrome 
+2022-06-25 01:05:38,467 INFO  [log] Browser name : null 
+2022-06-25 01:05:46,021 INFO  [log] Browser name : firefox 
+2022-06-25 01:05:46,021 INFO  [log] Browser name : chrome 
+2022-06-25 01:05:48,984 INFO  [log] Setup started 
+2022-06-25 01:05:51,168 INFO  [log] Web application launched 
+2022-06-25 01:05:51,168 INFO  [log] openUrl transaction passed 
+2022-06-25 01:05:52,371 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 01:05:52,927 INFO  [log] Setup started 
+2022-06-25 01:05:53,461 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 01:05:56,191 INFO  [log] Web application launched 
+2022-06-25 01:05:56,193 INFO  [log] openUrl transaction passed 
+2022-06-25 01:05:57,055 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 01:05:57,924 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 01:06:00,943 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 01:06:00,943 INFO  [log] Statu : true 
+2022-06-25 01:06:02,289 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 01:06:05,311 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 01:06:05,313 INFO  [log] Statu : true 
+2022-06-25 01:06:06,805 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 01:06:09,212 ERROR [log] Error while finding elements  e : stale element reference: element is not attached to the page document
+  (Session info: chrome=103.0.5060.53)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56713}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fd2be293e85dfea27b71a548a86e2dd 
+2022-06-25 01:06:11,669 INFO  [log] clicked by -->> By.cssSelector: [data-testid='productImageSlider'] 
+2022-06-25 01:06:12,871 ERROR [log] Error while finding elements  e : The element reference of <div class="sc-1cpkc3l-0 otbCa"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 28656, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f763dc2d-630a-46c4-b4c3-ad4cfa1ed89d 
+2022-06-25 01:06:12,872 ERROR [log] Error while clicking webelement : org.openqa.selenium.StaleElementReferenceException: The element reference of <div class="sc-1cpkc3l-0 otbCa"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '10.169.1.194', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 28656, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f763dc2d-630a-46c4-b4c3-ad4cfa1ed89d 
+2022-06-25 01:06:16,675 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 01:06:17,483 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 01:06:18,125 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 01:06:22,580 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 01:06:23,293 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+       
+2022-06-25 01:06:24,950 INFO  [log] There is 2 product in basket 
+2022-06-25 01:06:25,595 INFO  [log] clicked by -->> By.cssSelector: [class$='product-item-box-container'] [title='Sil'] 
+2022-06-25 01:06:27,265 INFO  [log] The basker is empty 
+2022-06-25 01:06:56,256 INFO  [log] Browser name : firefox 
+2022-06-25 01:07:00,750 INFO  [log] Setup started 
+2022-06-25 01:07:02,105 INFO  [log] Web application launched 
+2022-06-25 01:07:02,106 INFO  [log] openUrl transaction passed 
+2022-06-25 01:07:02,862 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 01:07:03,469 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 01:07:06,995 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 01:07:06,996 INFO  [log] Statu : true 
+2022-06-25 01:07:07,718 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 01:07:11,422 INFO  [log] clicked by -->> By.cssSelector: [data-testid='productImageSlider'] 
+2022-06-25 01:07:15,099 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 01:07:15,965 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 01:07:16,602 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 01:07:18,869 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 01:07:19,736 INFO  [log] Value : 2 - SelectComboBox : 1
+2
+3
+4
+5
+6
+7
+8
+9
+10+ 
+2022-06-25 01:07:21,322 INFO  [log] There is 2 product in basket 
+2022-06-25 01:07:21,976 INFO  [log] clicked by -->> By.cssSelector: [class$='product-item-box-container'] [title='Sil'] 
+2022-06-25 01:07:23,806 INFO  [log] The basker is empty 
+2022-06-25 20:13:58,171 INFO  [log] Browser name : chrome 
+2022-06-25 20:14:00,465 INFO  [log] Setup started 
+2022-06-25 20:14:07,300 INFO  [log] Web application launched 
+2022-06-25 20:14:07,301 INFO  [log] openUrl transaction passed 
+2022-06-25 20:14:08,272 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 20:14:09,104 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 20:14:11,328 ERROR [log] Error while finding elements  e : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=103.0.5060.53)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.53, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\OKAYON~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61815}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d96fbe47dd2436f328d2dbade199c25
+*** Element info: {Using=css selector, value=[data-testid='pagination-list-item'] a} 
+2022-06-25 20:17:42,059 INFO  [log] Browser name : chrome 
+2022-06-25 20:17:44,388 INFO  [log] Setup started 
+2022-06-25 20:32:32,938 INFO  [log] Browser name : chrome 
+2022-06-25 20:32:35,340 INFO  [log] Setup started 
+2022-06-25 20:32:53,487 INFO  [log] Browser name : firefox 
+2022-06-25 20:32:58,002 INFO  [log] Setup started 
+2022-06-25 20:33:09,733 INFO  [log] Browser name : firefox 
+2022-06-25 20:33:09,733 INFO  [log] Browser name : chrome 
+2022-06-25 20:33:12,289 INFO  [log] Setup started 
+2022-06-25 20:33:14,363 INFO  [log] Web application launched 
+2022-06-25 20:33:14,364 INFO  [log] openUrl transaction passed 
+2022-06-25 20:33:15,300 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 20:33:16,089 INFO  [log] Setup started 
+2022-06-25 20:33:16,290 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 20:33:18,710 INFO  [log] Web application launched 
+2022-06-25 20:33:18,712 INFO  [log] openUrl transaction passed 
+2022-06-25 20:33:19,574 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 20:33:20,226 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 20:33:22,159 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 20:33:22,159 INFO  [log] Statu : true 
+2022-06-25 20:33:23,273 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 20:33:24,897 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 20:33:24,899 INFO  [log] Statu : true 
+2022-06-25 20:33:26,207 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 20:33:28,989 INFO  [log] clicked by -->> By.cssSelector: [data-testid='productImageSlider'] 
+2022-06-25 20:33:30,735 INFO  [log] clicked by -->> By.cssSelector: [data-testid='productImageSlider'] 
+2022-06-25 20:33:37,631 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 20:33:37,751 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 20:33:38,632 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 20:33:39,264 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 20:33:40,086 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 20:33:40,731 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 20:33:41,718 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 20:33:45,170 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 20:34:06,840 ERROR [log] Error while selecting value in combobox : org.openqa.selenium.WebDriverException: TypeError: browsingContext.currentWindowGlobal is null
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 1176, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 33e6310b-5001-4942-a8d1-d247bee8480a
+*** Element info: {Using=xpath, value=.//option[@value = "2"]} 
+2022-06-25 20:34:22,233 INFO  [log] Browser name : firefox 
+2022-06-25 20:34:26,749 INFO  [log] Setup started 
+2022-06-25 20:34:48,661 INFO  [log] Browser name : firefox 
+2022-06-25 20:34:54,213 INFO  [log] Setup started 
+2022-06-25 20:34:56,189 INFO  [log] Web application launched 
+2022-06-25 20:34:56,192 INFO  [log] openUrl transaction passed 
+2022-06-25 20:34:57,109 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-25 20:34:57,768 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-25 20:35:02,242 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 20:35:02,242 INFO  [log] Statu : true 
+2022-06-25 20:35:03,430 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-25 20:35:08,058 INFO  [log] clicked by -->> By.cssSelector: [data-testid='productImageSlider'] 
+2022-06-25 20:35:11,706 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-25 20:35:12,563 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-25 20:35:13,190 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-25 20:35:15,461 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-25 20:35:29,368 ERROR [log] Error while selecting value in combobox : org.openqa.selenium.WebDriverException: TypeError: browsingContext.currentWindowGlobal is null
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 92.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210922161155, moz:geckodriverVersion: 0.25.0, moz:headless: false, moz:processID: 17404, moz:profile: C:\Users\Okay Onbaşı\AppDat..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 5193abfd-1bb6-4cc0-bf30-05eccd400475
+*** Element info: {Using=xpath, value=.//option[@value = "2"]} 
+2022-06-26 17:37:11,355 INFO  [log] Browser name : chrome 
+2022-06-26 17:37:14,002 INFO  [log] Setup started 
+2022-06-26 17:37:15,663 INFO  [log] Web application launched 
+2022-06-26 17:37:15,663 INFO  [log] openUrl transaction passed 
+2022-06-26 17:37:16,631 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-26 17:37:17,300 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-26 17:37:21,032 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-26 17:37:21,033 INFO  [log] Statu : true 
+2022-06-26 17:37:21,887 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-26 17:37:26,292 INFO  [log] clicked by -->> By.cssSelector: [data-testid='productImageSlider'] 
+2022-06-26 17:37:29,979 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-26 17:37:32,930 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-26 17:37:33,560 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-26 17:38:16,360 INFO  [log] Browser name : chrome 
+2022-06-26 17:38:18,646 INFO  [log] Setup started 
+2022-06-26 17:38:20,152 INFO  [log] Web application launched 
+2022-06-26 17:38:20,152 INFO  [log] openUrl transaction passed 
+2022-06-26 17:38:20,974 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-26 17:38:21,626 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-26 17:38:25,394 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-26 17:38:25,394 INFO  [log] Statu : true 
+2022-06-26 17:38:26,139 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-26 17:38:31,063 INFO  [log] clicked by -->> By.cssSelector: [data-testid='productImageSlider'] 
+2022-06-26 17:38:34,943 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-26 17:38:35,797 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-26 17:38:36,463 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-26 17:38:40,781 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-26 17:38:41,500 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+       
+2022-06-26 17:38:43,113 INFO  [log] There is 2 product in basket 
+2022-06-26 17:38:43,750 INFO  [log] clicked by -->> By.cssSelector: [class$='product-item-box-container'] [title='Sil'] 
+2022-06-26 17:38:45,446 INFO  [log] The basker is empty 
+2022-06-26 17:38:46,257 ERROR [log] Error while getting app url : Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S5OC1F8', ip: '172.30.144.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: RemoteWebDriver 
+2022-06-26 17:38:46,258 INFO  [log] openUrl transaction failed 
+2022-06-26 17:39:17,498 INFO  [log] Browser name : chrome 
+2022-06-26 17:39:19,938 INFO  [log] Setup started 
+2022-06-26 17:39:21,447 INFO  [log] Web application launched 
+2022-06-26 17:39:21,448 INFO  [log] openUrl transaction passed 
+2022-06-26 17:39:22,351 INFO  [log] SendKeys text : Bilgisayar ,by -->> By.cssSelector: [data-cy='header-search-input'] 
+2022-06-26 17:39:23,047 INFO  [log] clicked by -->> By.cssSelector: [data-cy='search-find-button'] 
+2022-06-26 17:39:27,566 INFO  [log] Checking exist element by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-26 17:39:27,566 INFO  [log] Statu : true 
+2022-06-26 17:39:28,396 INFO  [log] clicked by -->> By.cssSelector: [data-testid='pagination-list-item'] a 
+2022-06-26 17:39:32,837 INFO  [log] clicked by -->> By.cssSelector: [data-testid='productImageSlider'] 
+2022-06-26 17:39:52,850 INFO  [log] clicked by -->> By.xpath: //*[@id='add-to-basket'] 
+2022-06-26 17:39:53,650 INFO  [log] Checking element : By.cssSelector: [class='header-cart-container-title'] 
+2022-06-26 17:39:54,330 INFO  [log] clicked by -->> By.className: basket-title 
+2022-06-26 17:39:59,049 INFO  [log] Selected product name and price is identical in basket's. 
+2022-06-26 17:39:59,798 INFO  [log] Value : 2 - SelectComboBox :                  1
+                 2
+                 3
+                 4
+                 5
+                 6
+                 7
+                 8
+                 9
+                10+
+       
+2022-06-26 17:40:01,464 INFO  [log] There is 2 product in basket 
+2022-06-26 17:40:02,155 INFO  [log] clicked by -->> By.cssSelector: [class$='product-item-box-container'] [title='Sil'] 
+2022-06-26 17:40:03,930 INFO  [log] The basker is empty 
