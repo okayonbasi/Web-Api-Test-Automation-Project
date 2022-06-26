@@ -80,6 +80,7 @@ public class DriverInit {
 
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(GetData.DEFAULT_WAIT, TimeUnit.SECONDS);
+        driver.manage().timeouts().pageLoadTimeout(GetData.DEFAULT_WAIT_LOADERBOX, TimeUnit.SECONDS);
         driver.manage().window().maximize();
         webDriver.set(driver);
         log.info("Setup started");

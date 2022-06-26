@@ -3,6 +3,7 @@ package com.gittigidiyor.data;
 public class GetData {
 
     public static final int DEFAULT_WAIT = 30;
+    public static final int DEFAULT_WAIT_LOADERBOX  = 60;
 
     public static final String downloadFilePath = "";
 
